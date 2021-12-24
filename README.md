@@ -1,6 +1,4 @@
 # voidCoders Docs Cloud
 
 
-
-<a href="/hexafy">Hexafy – Cleaning company WordPress Theme</a> <br>
-<a href="/foodfly">Foodfly- Fast Food Delivery & Restaurant WordPress</a>
+In this we will add our docs for themes and plugins as needed. Specially online docs for themes. 
